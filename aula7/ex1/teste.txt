@@ -1,0 +1,3 @@
+Linha 1: Hello World
+Linha 2: Java IO
+Linha 3: Fim do arquivo
